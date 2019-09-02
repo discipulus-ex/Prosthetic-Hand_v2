@@ -23,7 +23,7 @@ Coming soon!
 ### Clone
 Clone this repo to your local machine using:
 ```
-$ git clone https://github.com/discipulus-ex/Prosthetic-Hand.git
+$ git clone https://github.com/discipulus-ex/Prosthetic-Hand_v2.git
 ```
 
 ---
