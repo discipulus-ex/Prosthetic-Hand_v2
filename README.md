@@ -47,13 +47,13 @@ Coming soon!
 - **Option 2**
   - Clone this repo to your local machine using:
     ```
-    $ git clone https://github.com/discipulus-ex/Prosthetic-Hand.git
+    $ git clone https://github.com/discipulus-ex/Prosthetic-Hand_v2.git
     ```
 ### Step 2
 - **HACK AWAY!**
 
 ### Step 3
-- Create a new pull request using <a href="https://github.com/discipulus-ex/Prosthetic-Hand/compare/" target="_blank">`https://github.com/discipulus-ex/Prosthetic-Hand/compare/`</a>
+- Create a new pull request using <a href="https://github.com/discipulus-ex/Prosthetic-Hand_v2/compare/" target="_blank">`https://github.com/discipulus-ex/Prosthetic-Hand_v2/compare/`</a>
 
 ---
 
