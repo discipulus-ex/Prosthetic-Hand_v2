@@ -1,4 +1,4 @@
-# Discipulus-Ex: Prosthetic Hand
+# Discipulus-Ex: Prosthetic Hand v2
 
 Nowadays most open-source 3D-printed prosthetic hands are made for below-elbow and above-elbow amputees.
 
