@@ -1,5 +1,5 @@
 /**
- * @file        NA
+ * @file        Finger.cpp
  * @date        2019-06-19
  * @author      Dylan Duunk
  * 
@@ -10,12 +10,13 @@
 #pragma once
 
 #include "Arduino.h"
+#include "Servo.h"
 
 /**
  * @brief       Names of the fingers
  */
 enum FingerName {
-    Thumb, Index, Middle, Ring, Pink, Countt
+    Thumb, Index, Middle, Ring, Pink, Count
 };
 
 /**
@@ -23,6 +24,7 @@ enum FingerName {
  *              Define in a zero-terminated array
  */
 struct Finger {
+    const char *name;
     /**
      * Motor pins, used in combination 
      * with L298N Motor driver* 
@@ -33,6 +35,10 @@ struct Finger {
     const int controlPin1;      // Input pin 1 of the bridge
     const int controlPin2;      // Input pin 2 of the bridge
 
+
+    /**
+     * PostitionSensor will store it's value
+     */ 
     // PositionSensor sensors[6] = {
     // //    Sensor name   Pin     
     //     { "Thumb",      A0 },
