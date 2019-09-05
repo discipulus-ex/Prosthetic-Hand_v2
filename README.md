@@ -1,17 +1,18 @@
 # Discipulus-Ex: Prosthetic Hand
-A 3D-printed partial hand prosthesis using Arduino and OYMotion.
 
----
+Nowadays most open-source3D-printed prosthetic hands are made for below-elbow and above-elbow amputees.
+
+Partial hand prosthesis require a different approach, since there is no standard shape.
+Our design consist of a four-bar linkage system for finger movement using the design of <a href="https://github.com/MartinBloedorn/biohand" target="_blank">`Martin Bloedorn`</a> and a OyMotion Pro band, creating real time movement based on muscle movements.
 
 ## Contents
 
 In this repository you can find:
+* Documentation regarding the project
 * Arduino software
 * CAD design files
 * PCB design files
 * Arhcive of various images
-
----
 
 ## Support
 Reach us out at:
