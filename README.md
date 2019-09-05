@@ -12,7 +12,7 @@ In this repository you can find:
 * Arduino software
 * CAD design files
 * PCB design files
-* Arhcive of various images
+* Archive of various images
 
 ## Support
 Reach us out at:
