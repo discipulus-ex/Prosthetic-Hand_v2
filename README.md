@@ -1,9 +1,9 @@
 # Discipulus-Ex: Prosthetic Hand
 
-Nowadays most open-source3D-printed prosthetic hands are made for below-elbow and above-elbow amputees.
+Nowadays most open-source 3D-printed prosthetic hands are made for below-elbow and above-elbow amputees.
 
 Partial hand prosthesis require a different approach, since there is no standard shape.
-Our design consist of a four-bar linkage system for finger movement using the design of <a href="https://github.com/MartinBloedorn/biohand" target="_blank">`Martin Bloedorn`</a> and a OyMotion Pro band, creating real time movement based on muscle movements.
+Our design consist of a four-bar linkage system for finger movement making use of the design from <a href="https://github.com/MartinBloedorn/biohand" target="_blank">`Martin Bloedorn`</a> and a OyMotion Pro band, creating real time movement based on muscle movements.
 
 ## Contents
 
